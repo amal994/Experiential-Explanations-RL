@@ -1,0 +1,29 @@
+*__pycache__
+*egg-info
+*.vscode
+*.png
+*.pt
+*.pkl
+*.ckpt
+/src/tile_embedding/tile_embeddings/*
+/scripts/c_outputs/*
+/scripts/wandb/*
+*.yaml
+*.out
+scripts/save_pid.txt
+*.log
+scripts/lightning_logs/*
+.DS_Store
+.idea/*
+save_pid.txt
+*.gif
+.ipynb_checkpoints
+ # Default ignored files
+ /shelf/
+ /workspace.xml
+ # Datasource local storage ignored files
+ /dataSources/
+ /dataSources.local.xml
+ # Editor-based HTTP Client requests
+ /httpRequests/
+storage/trained_agents/*
